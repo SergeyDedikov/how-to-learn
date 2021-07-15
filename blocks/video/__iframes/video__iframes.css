@@ -2,4 +2,6 @@
   display: flex;
   font-size: 0;
   justify-content: center;
+  list-style-type: none;
+  padding-inline-start: 0;
 }

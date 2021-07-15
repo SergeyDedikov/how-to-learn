@@ -2,4 +2,11 @@
   line-height: 25px;
   margin: 18px 0;
   width: fit-content;
+  text-decoration: none;
+  color: white;
+  opacity: 1;
+}
+
+.footer__author:hover {
+  color: gray;
 }
