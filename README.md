@@ -26,4 +26,4 @@ ____
 
 #### Автор
 
-:copyright: [_Сергей Дедиков_](mailto:serded59@ya.ru)
+:copyright: [_Сергей Дедиков_](mailto:ser.dedikoff@ya.ru)
