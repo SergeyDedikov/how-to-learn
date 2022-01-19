@@ -1,6 +1,8 @@
 .feynman__subtitle {
   position: relative;
   z-index: 2;
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
   width: fit-content;
   margin: 70px auto 0;
   text-align: center;

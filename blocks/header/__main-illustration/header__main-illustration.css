@@ -5,6 +5,8 @@
   bottom: 0;
   width: 765px;
   height: 608px;
-  object-fit: cover;
-  object-position: bottom;
+  -o-object-fit: cover;
+     object-fit: cover;
+  -o-object-position: bottom;
+     object-position: bottom;
 }

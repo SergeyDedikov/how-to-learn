@@ -3,5 +3,6 @@
   font-size: 0;
   justify-content: center;
   list-style-type: none;
-  padding-inline-start: 0;
+  -webkit-padding-start: 0;
+          padding-inline-start: 0;
 }

@@ -3,5 +3,6 @@
   flex-direction: column;
   margin: 20px 0 16px;
   list-style-type: none;
-  padding-inline-start: 0;
+  -webkit-padding-start: 0;
+          padding-inline-start: 0;
 }
