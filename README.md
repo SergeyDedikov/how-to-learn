@@ -27,3 +27,7 @@ ____
 #### Автор
 
 :copyright: [_Сергей Дедиков_](mailto:ser.dedikoff@ya.ru)
+
+#### Ссылка
+
+[Ссылка на проект](https://sergeydedikov.github.io/how-to-learn/index.html)
